@@ -1,2 +1,2 @@
 # R-Rstudio
-This repository will house my R/R studio portfolio work
+This repository will house my R/RStudio portfolio work
